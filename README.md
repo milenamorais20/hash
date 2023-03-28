@@ -37,10 +37,10 @@ Não há necessidade de instalação.
 <h3 id="sobre">📍 Sobre</h3>
 
 ✅ Desenvolvido no padrão MVC. <br>
-✅ Esse projeto foi feito usando os conhecimentos básicos das linguagens: HTML, CSS e JAVASCRIPT.
-✅ Projeto responsivo.
-✅ Interessante para jogar com os amigos quando estive desocupado(a).
-✅ Para jogar offline, basta clicar em "acessar projeto".
+✅ Esse projeto foi feito usando os conhecimentos básicos das linguagens: HTML, CSS e JAVASCRIPT. <br>
+✅ Projeto responsivo.  <br>
+✅ Interessante para jogar com os amigos quando estive desocupado(a). <br>
+✅ Para jogar offline, basta clicar em "acessar projeto". <br>
 
 
 <h3 id="preview">🎥 Preview</h3>
